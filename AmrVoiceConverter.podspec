@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
-  s.requires_arc = true
+  s.requires_arc = false
 
   s.source_files = ['*.{h,m}','**/*.{h,m}']
   #s.resources = ["*.{xib}","Resources/*.{png}"]
