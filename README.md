@@ -1,6 +1,6 @@
 #AmrVoiceConverter
 
-a Voice Converter between amr format and wav format , supported in Moc OS or iOS
+a Voice Converter between amr format and wav format , supported in Moc OS and iOS
 
 ##Features
 
