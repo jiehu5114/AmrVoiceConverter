@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                         A VoiceConverter between AMR format and WAV format
                        DESC
 
   s.homepage         = "https://github.com/jiehu5114/AmrVoiceConverter"
