@@ -12,4 +12,4 @@ a Voice Converter between amr format and wav format , supported in Moc OS or iOS
 
 ##Installation
 
-	 pod 'WechatShortVideo'
+	 pod 'AmrVoiceConverter'
